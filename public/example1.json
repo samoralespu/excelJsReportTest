@@ -1,0 +1,24 @@
+{
+  "studentData": [
+    { "name": "Muskan", "RollNo": 101, "Grade": "A+", "Class": 10 },
+    { "name": "John", "RollNo": 102, "Grade": "A", "Class": 10 },
+    { "name": "Emily", "RollNo": 103, "Grade": "B+", "Class": 10 },
+    { "name": "Michael", "RollNo": 104, "Grade": "A", "Class": 10 },
+    { "name": "Sophia", "RollNo": 105, "Grade": "A+", "Class": 10 },
+    { "name": "James", "RollNo": 106, "Grade": "B", "Class": 10 },
+    { "name": "Emma", "RollNo": 107, "Grade": "A+", "Class": 10 }
+  ],
+  "TeachersData": [
+    { "name": "Mr. Smith", "TeacherNo": 201, "Subject": "Maths" },
+    { "name": "Ms. Johnson", "TeacherNo": 202, "Subject": "Science" },
+    { "name": "Mr. Brown", "TeacherNo": 203, "Subject": "History" },
+    { "name": "Ms. Martinez", "TeacherNo": 204, "Subject": "English" },
+    { "name": "Mr. Wilson", "TeacherNo": 205, "Subject": "Art" }
+  ],
+  "SubjectData": [
+    { "subjectName": "Maths", "No": 1 },
+    { "subjectName": "Science", "No": 2 },
+    { "subjectName": "History", "No": 3 },
+    { "subjectName": "English", "No": 4 }
+  ]
+}
